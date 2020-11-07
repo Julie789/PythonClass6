@@ -1,5 +1,4 @@
 # Practical Scripting with Python
-## UNO Summer Techademy
 
 ### OpenWeather API Key
 For this project, you will need to be able to read data from the Open Weather Map data source. They have an Application Programming Interface (API) available to developers to access this data. You will need to sign up on the website as a developer.
